@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name CmpAmpliAudio)(type Legacy)(uri ${KIPRJMOD}/LibAmpli_3imacs/CmpAmpliAudio.lib)(options "")(descr ""))
-)
