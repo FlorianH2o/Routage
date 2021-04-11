@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name CmpAmpliAudio)(type Legacy)(uri ${KIPRJMOD}/LibAmpli_3imacs/CmpAmpliAudio.lib)(options "")(descr ""))
+  (lib (name CmpAmpliAudio)(type Legacy)(uri "C:/Users/flori/Desktop/Routage Kicad/Routage_H2O_Laurie_v1/Routage_H2O_Laurie_v1/TR_LibAmpli_3imacs_2021/CmpAmpliAudio.lib")(options "")(descr ""))
+  (lib (name Routage_H2O_Laurie_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/Routage_H2O_Laurie_v1-rescue.lib)(options "")(descr ""))
 )
