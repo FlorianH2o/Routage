@@ -1017,7 +1017,7 @@ Wire Wire Line
 Wire Wire Line
 	8300 2850 8300 5850
 $Comp
-L CmpAmpliAudio:Jack_Mono U2
+L Routage_H2O_Laurie_v1-rescue:Jack_Mono-CmpAmpliAudio U2
 U 1 1 605BBF3F
 P 1000 3800
 F 0 "U2" H 1028 4067 50  0000 C CNN
@@ -1041,7 +1041,7 @@ $EndComp
 Wire Wire Line
 	1200 3900 1500 3900
 $Comp
-L CmpAmpliAudio:Relay_1CT U1
+L Routage_H2O_Laurie_v1-rescue:Relay_1CT-CmpAmpliAudio U1
 U 1 1 605CF78D
 P 9800 2750
 F 0 "U1" H 9800 2917 50  0000 C CNN
