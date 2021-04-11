@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# CP
+#
+DEF CP C 0 10 N Y 1 F N
+F0 "C" -650 -25 50 V V L CNN
+F1 "CP" -850 -25 50 V V L CNN
+F2 "" -900 -38 50 V I C CNN
+F3 "" -750 0 50 V I C CNN
+$FPLIST
+ CP_*
+$ENDFPLIST
+DRAW
+S -770 -90 -790 90 0 1 0 F
+S -730 90 -710 -90 0 1 0 N
+P 2 0 1 0 -660 70 -660 30 N
+P 2 0 1 0 -640 50 -680 50 N
+X ~ 1 -600 0 110 L 50 50 1 1 P
+X ~ 2 -900 0 110 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
